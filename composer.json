@@ -1,0 +1,15 @@
+{
+    "name": "metapackage/metapackage",
+    "type": "metapackage",
+    "description": "Composer Metapackage",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
