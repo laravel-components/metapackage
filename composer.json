@@ -1,7 +1,7 @@
 {
-    "name": "metapackage/metapackage",
+    "name": "laravel-components/metapackage",
     "type": "metapackage",
-    "description": "Composer Metapackage",
+    "description": "Laravel Components Metapackage",
     "license": "MIT",
     "extra": {
         "branch-alias": {
